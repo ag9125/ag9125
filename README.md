@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergrad @ NIT Kurukshetra • Full-Stack Developer • Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;600%2B+problems+on+LeetCode+%26+GFG;LeetCode+peak+rating+1817;Building+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;800%2B+problems+on+LeetCode+%26+GFG;LeetCode+peak+rating+1817;Building+scalable+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,9 +16,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science** at **National Institute of Technology, Kurukshetra** (CGPA: **9.1875 / 10**)
 - 💻 Passionate about **Full-Stack Web Development**, **DSA**, and **Scalable Systems**
 - 🚀 Built production-grade apps with **MERN + Socket.io + Razorpay + Cloudinary**
-- 🏆 Solved **600+** problems on **LeetCode & GFG** — peak LeetCode rating **1817**
-- 🎯 JEE Advanced — **Top 5K** out of 2.5 lakh qualifiers
-- 🛰️ Web Dev Team @ **Antariksh Club** | Tech Member @ **Anant Club**
+- 🏆 Solved **800+** problems on **LeetCode & GFG** — peak LeetCode rating **1817**
 - 📫 Reach me: **ankitgi9125@gmail.com**
 
 ---
