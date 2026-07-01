@@ -99,28 +99,11 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ag9125/ag9125/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ag9125&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 💻 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/ag9125/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/user/ag9125/"><img src="https://img.shields.io/badge/GeeksforGeeks-Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://leetcode.com/u/AnkitGi936/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/ankitghzgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
 </p>
 
 <p align="center">
